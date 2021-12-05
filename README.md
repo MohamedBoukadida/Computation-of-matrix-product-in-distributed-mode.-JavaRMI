@@ -1,2 +1,2 @@
-# Computation-of-matrix-product-in-distributed-mode.-JavaMI
+# Computation-of-matrix-product-in-distributed-mode.-JavaRMI
  
